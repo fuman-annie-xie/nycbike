@@ -2,10 +2,11 @@
 # Final Project
 ### Machine Learning Foundations with Python (90-803)
 #### Spring 2023
-
+![Screen Shot 2024-03-11 at 6 48 39 PM](https://github.com/fuman-annie-xie/nycbike/assets/114703755/66144fad-aca4-466f-8cd7-775267a5d6a6)
 
 ### Title
 Understanding User Demand and Vehicle Supply of New York Citi Bike Sharing 
+
 
 ### Authors
 
